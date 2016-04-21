@@ -14,11 +14,11 @@ install and run using any web browser
 
 ## Known Bugs
 
-no known bugs
+no known bugs at this time
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+contact me at lawton.a.browning@gmail.com
 
 ## Technologies Used
 Jquery Javascript prototypes in JS
