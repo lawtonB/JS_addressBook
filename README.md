@@ -1,6 +1,6 @@
 # Address Book
 
-#### Address Book, Jan 25th, 2016
+Jan 25th, 2016
 
 #### By LawtonB
 
